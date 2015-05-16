@@ -5,17 +5,18 @@ header{
     font-weight: bold;
 }
 
-
-#head1{
+.st1 {
     color: #57a494;
 }
-#head2{
+
+.st2 {
     color: #c93d48;
 }
-#head3{
+
+.st3 {
     color: #c4928b;
 }
 
-#head4{
+.st4 {
     color: #81a0b4;
 }
