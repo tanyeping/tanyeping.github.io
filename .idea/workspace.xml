@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcece67c-8337-4971-b862-cbd9675dc4b4" name="Default" comment="first&#10;">
+      <change type="DELETED" beforePath="F:\Github_tanyepin\tanyeping.github.io\image\bb11.JPG" afterPath="" />
+      <change type="DELETED" beforePath="F:\Github_tanyepin\tanyeping.github.io\image\bb22.JPG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/Thumbs.db" afterPath="$PROJECT_DIR$/image/Thumbs.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.htm" afterPath="$PROJECT_DIR$/index.htm" />
     </list>
     <ignored path="tanyeping.github.io.iws" />
@@ -28,8 +31,8 @@
       <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4428413">
-              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.021764033">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -251,7 +254,7 @@
       <created>1431753660161</created>
       <option name="number" value="Default" />
       <updated>1431753660161</updated>
-      <workItem from="1431753667411" duration="6918000" />
+      <workItem from="1431753667411" duration="7085000" />
     </task>
     <task id="LOCAL-00001" summary="first&#10;">
       <created>1431754288843</created>
@@ -269,7 +272,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6918000" />
+    <option name="totallyTimeSpent" value="7085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1892" height="1058" extended-state="6" />
@@ -333,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4428413">
-          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.021764033">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
           <folding />
         </state>
       </provider>
